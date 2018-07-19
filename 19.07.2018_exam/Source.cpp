@@ -15,7 +15,7 @@ int main()
 	int a[n];
 	int x = 0;
 
-	for (int i = 0; i < n; i++)
+	for (int i = 0; i < n; i++)па
 	{
 		a[i] = 0 + rand() % 5;
 		cout << setw(4) << a[i];
